@@ -10,6 +10,7 @@ Swift Skeleton View Usage and [Project Work](https://github.com/Dr-Groot/Skeleto
 ![7](https://user-images.githubusercontent.com/63160825/213910133-47912bc3-91bc-42bb-8281-10d210bdd045.jpg)
 ![8](https://user-images.githubusercontent.com/63160825/213910137-d20ce518-95e1-4836-a716-6ed9c69e3221.jpg)
 ![9](https://user-images.githubusercontent.com/63160825/213910142-8ab554d8-b554-41d2-9223-d3e71d7e4a64.jpg)
+![skeletonViewTableView](https://user-images.githubusercontent.com/63160825/213976115-26f3bfc8-1da4-477a-b6ce-1f2809411176.jpg)
 ![10](https://user-images.githubusercontent.com/63160825/213910154-c3295544-90e9-4800-9046-5e7b58096baa.jpg)
 
 ![Simulator Screen Shot - iPhone 11 - 2023-01-22 at 15 17 35](https://user-images.githubusercontent.com/63160825/213909689-19998819-c762-4f59-ab18-1df2401b73b6.png)
